@@ -1,8 +1,10 @@
 [gd_scene format=3 uid="uid://doymgfydf8eyg"]
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_umreq"]
+size = Vector3(15, 1, 15)
 
 [sub_resource type="BoxMesh" id="BoxMesh_80vhd"]
+size = Vector3(15, 1, 15)
 
 [node name="level" type="Node3D" unique_id=276238951]
 
